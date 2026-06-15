@@ -149,6 +149,14 @@ public class A1_Basics {
         testOperator1();
          //testOperator2();
         //logicalOperators();
+        additionOfNumbers();
+    }
+
+    private static void additionOfNumbers() {
+        int age1 = 30;
+        int age2 = 40;
+        int sum = age1 + age2;
+        System.out.println("the sum of all ages = " + sum);
 
     }
 
