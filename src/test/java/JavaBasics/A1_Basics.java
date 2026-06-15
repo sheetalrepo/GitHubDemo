@@ -39,7 +39,7 @@ public class A1_Basics {
         String newSum = str2 + 100;
         System.out.println(newSum);
 
-
+        
         //Set4
         String s10 = "  50  ";
         int i10 = 100;
@@ -149,6 +149,17 @@ public class A1_Basics {
         testOperator1();
          //testOperator2();
         //logicalOperators();
+        additionOfNumbers();
+
+    }
+
+    private static void additionOfNumbers() {
+        //add two numbers
+        int age1 = 345;
+        int age2 = 450;
+
+        int sum = age1 + age2;
+        System.out.println("the sum of all ages = " + sum);
 
     }
 
