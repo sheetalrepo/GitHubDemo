@@ -39,7 +39,7 @@ public class A1_Basics {
         String newSum = str2 + 100;
         System.out.println(newSum);
 
-        
+
         //Set4
         String s10 = "  50  ";
         int i10 = 100;
@@ -150,7 +150,6 @@ public class A1_Basics {
          //testOperator2();
         //logicalOperators();
         additionOfNumbers();
-
     }
 
     private static void additionOfNumbers() {
