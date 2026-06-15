@@ -153,10 +153,8 @@ public class A1_Basics {
     }
 
     private static void additionOfNumbers() {
-        //add two numbers
-        int age1 = 345;
-        int age2 = 450;
-
+        int age1 = 30;
+        int age2 = 40;
         int sum = age1 + age2;
         System.out.println("the sum of all ages = " + sum);
 
